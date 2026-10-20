@@ -1,7 +1,14 @@
 # Paquete para Hostinger
 
-`sitio-completo.zip` es el sitio entero en un solo archivo: 561 archivos, 35 MB.
-Sustituye a las tres partes de antes, que se subían incompletas.
+Hay dos paquetes:
+
+- **`arreglo-rapido.zip`** (400 KB) — la página, el código y los datos, sin las
+  fotos de producto. Es el que hay que subir cuando las fotos ya están en el
+  servidor y lo que falla es el diseño o el catálogo.
+- **`sitio-completo.zip`** (35 MB) — el sitio entero, 561 archivos, para una
+  instalación desde cero.
+
+Los dos se extraen directamente en `public_html` y se sobrescribe lo que haya.
 
 ## Subirlo
 
